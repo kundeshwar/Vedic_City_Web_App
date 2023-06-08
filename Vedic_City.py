@@ -4,7 +4,6 @@ from streamlit_extras.add_vertical_space import add_vertical_space
 import youtube_dl
 import requests
 import pprint
-from video_text import auth_key
 from time import sleep
 from youtube_transcript_api import YouTubeTranscriptApi
 from streamlit_option_menu import option_menu
