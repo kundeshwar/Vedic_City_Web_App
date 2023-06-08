@@ -41,7 +41,7 @@ with st.sidebar:
 
     st.markdown('''- 2. Paste the YouTube video URL into the input field.
     ''')
-    option = "-[Learn More] <https://github.com/kundeshwar/Vedic_City_Web_App> "
+    option = "- [Learn More] <https://github.com/kundeshwar/Vedic_City_Web_App> "
     st.markdown(f"<h3>{option}</h3>",unsafe_allow_html=True)
     add_vertical_space(4)
     st.write('Made with ❤️ by Kundeshwar Pundalik 😍')
